@@ -6,6 +6,9 @@
 • 👅 Languages : 🇫🇷-🇬🇧<br>
 • 📧 contact : mthea@student.42mulhouse.fr
 
+# 🎓 Certifications:
+<img width="350" alt="EJPTV2" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/EJPTV2.png">
+
 # 💻 Bug Bounty and CTF platforms:
 <table width="100%">
     <tr>
@@ -24,10 +27,9 @@ Yes We Hack : Haze (more than 250 points)<br>
 Root-Me : https://www.root-me.org/Haze-394413?lang=en#17b3e977ef097344675a2fa88d5a49ec<br>
 Hack The Box : Hazeee<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 🎓 Certifications:
-<img width="350" alt="EJPTV2" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/EJPTV2.png">
+# 🧠 skills:
+![DEF](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 # 📊 GitHub Stats:
 # Mes Projets
