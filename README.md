@@ -5,7 +5,7 @@
 • 🕯️ Age : 21
 
 # 💻 Bug Bounty and CTF platforms:
-<table width="100%" align="left">
+<table width="100%">
     <tr>
         <td align="left">
             <img width="200" height="150" alt="YesWeHack" style="margin-right: 100px;" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/yeswehack.png">
