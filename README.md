@@ -18,9 +18,9 @@
         </td>
     </tr>
 </table>
-Yes We Hack : Haze (more than 250 points)<br>
-Root-Me : https://www.root-me.org/Haze-394413?lang=en#17b3e977ef097344675a2fa88d5a49ec<br>
-Hack The Box : Hazeee<br>
+<p style="color: red;">Yes We Hack : Haze (more than 250 points)</p><br>
+<p style="color: black;">Root-Me : https://www.root-me.org/Haze-394413?lang=en#17b3e977ef097344675a2fa88d5a49ec</p><br>
+<p style="color: green;">Hack The Box : Hazeee</p><br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
