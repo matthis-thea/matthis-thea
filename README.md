@@ -7,8 +7,8 @@
 # 💻 Bug Bounty and CTF platforms:
 <div style="display:flex">
 <img style="width:200; margin-right:20px" alt="YesWeHack" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/yeswehack.png">
-<img width="200" alt="RootMe" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/root-me.png">
-<img width="200" alt="HackTheBox" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/Hack-The-Box-logo.png">
+<img width="200" height="150" alt="RootMe" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/root-me.png">
+<img width="200" height="150" alt="HackTheBox" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/Hack-The-Box-logo.png">
 </div>
 Yes We Hack : Haze (more than 250 points)<br>
 Root-Me : https://www.root-me.org/Haze-394413?lang=en#17b3e977ef097344675a2fa88d5a49ec<br>
