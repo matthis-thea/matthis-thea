@@ -1,3 +1,13 @@
+<style>
+  .image-container {
+    text-align: center; /* Alignement au centre */
+  }
+  
+  .image-container img {
+    margin: 5px; /* Espacement entre les images */
+  }
+</style>
+
 # 💫 About Me:
 <h1>Im a student in computer science specialized in IT development. I am passionate by the IT security and i am a bug bounty and HTB lovers !</h1><br>
 • 🧑 Name : Matthis<br>
@@ -5,9 +15,11 @@
 • 🕯️ Age : 21
 
 # 💻 Bug Bounty and CTG platforms:
+<div class="image-container">
 <img width="100" alt="YesWeHack" src="https://github.com/matthis-thea/matthis-thea/blob/main/yeswehack.png">
 <img width="100" alt="HackTheBox" src="https://github.com/matthis-thea/matthis-thea/blob/main/Hack-The-Box-logo.png">
 <img width="100" alt="RootMe" src="https://github.com/matthis-thea/matthis-thea/blob/main/rootme.svg">
+</div>
 Yes We Hack : Haze (more than 250 points)<br>
 Root-Me : https://www.root-me.org/Haze-394413?lang=en#17b3e977ef097344675a2fa88d5a49ec<br>
 Hack The Box : Hazeee<br>
