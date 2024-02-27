@@ -32,9 +32,9 @@
 
 Voici une liste de mes projets sur GitHub :
 
-- [Projet 1](https://github.com/votreutilisateur/projet1) - Description du projet 1.
-- [Projet 2](https://github.com/votreutilisateur/projet2) - Description du projet 2.
-- [Projet 3](https://github.com/votreutilisateur/projet3) - Description du projet 3.
+- [School_projects](https://github.com/matthis-thea/School_projects) - This is all my projects of school 42. .
+- [Cyber_projects](https://github.com/matthis-thea/Cybersecurity_projects) - These are all my personal or ctfs-related projects. These projects are all related to IT security.
+- [Malware_projects](https://github.com/matthis-thea/Virus_projects) - This section is a continuation of the Cybersecurity Projects section but more specifically for malicious payloads which allow either to execute remote commands or to access or spy on a remote machine (For example: Keylogger, trojan, webshell, reverse_shell, etc. ) .
 
 ![](https://github-readme-stats.vercel.app/api?username=matthis-thea&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=matthis-thea&theme=merko&hide_border=false)<br/>
