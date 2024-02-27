@@ -3,6 +3,7 @@
 ## About Me
 I'm a student in computer science specialized in IT development. 
 I am passionate about IT security and I am a bug bounty lovers
+😄
 <!--
 **matthis-thea/matthis-thea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
