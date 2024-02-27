@@ -14,9 +14,9 @@
 • 🏫 School : Ecole 42<br>
 • 🕯️ Age : 21
 
-# 💻 Bug Bounty and CTG platforms:
+# 💻 Bug Bounty and CTF platforms:
 <div class="image-container">
-<img width="100" alt="YesWeHack" src="https://github.com/matthis-thea/matthis-thea/blob/main/yeswehack.png">
+<img width="400" alt="YesWeHack" src="https://github.com/matthis-thea/matthis-thea/blob/main/yeswehack.png">
 <img width="100" alt="HackTheBox" src="https://github.com/matthis-thea/matthis-thea/blob/main/Hack-The-Box-logo.png">
 <img width="100" alt="RootMe" src="https://github.com/matthis-thea/matthis-thea/blob/main/rootme.svg">
 </div>
