@@ -5,11 +5,11 @@
 • 🕯️ Age : 21
 
 # 💻 Bug Bounty and CTF platforms:
+<div style="display:flex">
 <img width="200" alt="YesWeHack" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/yeswehack.png">
-<div align="center">
+<img width="200" alt="RootMe" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/root-me.png">
 <img width="200" alt="HackTheBox" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/Hack-The-Box-logo.png">
 </div>
-<img width="200" alt="RootMe" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/root-me.png">
 Yes We Hack : Haze (more than 250 points)<br>
 Root-Me : https://www.root-me.org/Haze-394413?lang=en#17b3e977ef097344675a2fa88d5a49ec<br>
 Hack The Box : Hazeee<br>
