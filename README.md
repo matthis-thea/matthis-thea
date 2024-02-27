@@ -5,6 +5,20 @@
 • 🕯️ Age : 21
 
 # 💻 Bug Bounty and CTF platforms:
+<table width="100%">
+    <tr>
+        <td align="left">
+            <img width="200" height="150" alt="YesWeHack" style="margin-right: 100px;" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/yeswehack.png">
+        </td>
+        <td align="center">
+            <img width="200" height="150" alt="RootMe" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/root-me.png">
+        </td>
+        <td align="right">
+            <img width="200" height="150" alt="HackTheBox" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/Hack-The-Box-logo.png">
+        </td>
+    </tr>
+</table>
+
 <div style="display:flex">
 <img width="200" height="150" alt="YesWeHack" style="margin-right: 100px;" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/yeswehack.png">
 <img width="200" height="150" alt="RootMe" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/root-me.png">
