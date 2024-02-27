@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-🏫 : School<br>
-<pre>Ecole 42</pre><br>
+• 🏫 School <pre>Ecole 42</pre><br>
 Yes We Hack : Haze (more than 250 points)<br>Root-Me : https://www.root-me.org/Haze-394413?lang=en#17b3e977ef097344675a2fa88d5a49ec<br>Hack The Box : Hazeee<br>Certifications : EJPTV2
 
 
