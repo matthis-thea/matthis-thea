@@ -1,7 +1,12 @@
 # 💫 About Me:
-
+<h1>Im a student in computer science specialized in IT development. I am passionate by the IT security and i am a bug bounty and HTB lovers !</h1><br>
+• 🧑 Name : Matthis<br>
 • 🏫 School : Ecole 42<br>
-Yes We Hack : Haze (more than 250 points)<br>Root-Me : https://www.root-me.org/Haze-394413?lang=en#17b3e977ef097344675a2fa88d5a49ec<br>Hack The Box : Hazeee<br>Certifications : EJPTV2
+• 🕯️ Age : 21<br>
+# 💻 Bug Bounty and CTG platforms
+Yes We Hack : Haze (more than 250 points)<br>
+Root-Me : https://www.root-me.org/Haze-394413?lang=en#17b3e977ef097344675a2fa88d5a49ec<br>
+Hack The Box : Hazeee<br>
 
 
 # 💻 Tech Stack:
@@ -15,5 +20,3 @@ Yes We Hack : Haze (more than 250 points)<br>Root-Me : https://www.root-me.org/H
 
 ---
 [![](https://visitcount.itsvg.in/api?id=matthis-thea&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
