@@ -4,7 +4,7 @@
   }
   
   .image-container img {
-    margin: 5px; /* Espacement entre les images */
+    margin: 50px; /* Espacement entre les images */
   }
 </style>
 
