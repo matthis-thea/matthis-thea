@@ -13,7 +13,7 @@ Root-Me : https://www.root-me.org/Haze-394413?lang=en#17b3e977ef097344675a2fa88d
 Hack The Box : Hazeee<br>
 | Rank | Languages |
 |-----:|-----------|
-|     <img width="200" alt="YesWeHack" src="https://github.com/matthis-thea/matthis-thea/blob/main/yeswehack.png">| JavaScript|
+|     ![C](https://github.com/matthis-thea/matthis-thea/blob/main/yeswehack.png)| JavaScript|
 |     <img width="200" alt="HackTheBox" src="https://github.com/matthis-thea/matthis-thea/blob/main/Hack-The-Box-logo.png">| Python    |
 |     3| SQL       |
 
