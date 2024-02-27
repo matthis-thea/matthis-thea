@@ -6,7 +6,7 @@
 
 # 💻 Bug Bounty and CTF platforms:
 <div style="display:flex">
-<img style="width:200; margin-right:20px" alt="YesWeHack" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/yeswehack.png">
+<img width="200" height="150" alt="YesWeHack" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/yeswehack.png">
 <img width="200" height="150" alt="RootMe" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/root-me.png">
 <img width="200" height="150" alt="HackTheBox" src="https://github.com/matthis-thea/matthis-thea/blob/main/pictures/Hack-The-Box-logo.png">
 </div>
