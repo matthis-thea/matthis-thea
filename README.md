@@ -18,7 +18,7 @@
         </td>
     </tr>
 </table>
-<p style="color: red;">Yes We Hack : Haze (more than 250 points)</p><br>
+<span style="color:red;">Yes We Hack : Haze (more than 250 points)</span><br>
 <p style="color: black;">Root-Me : https://www.root-me.org/Haze-394413?lang=en#17b3e977ef097344675a2fa88d5a49ec</p><br>
 <p style="color: green;">Hack The Box : Hazeee</p><br>
 
