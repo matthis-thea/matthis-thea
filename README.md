@@ -2,8 +2,8 @@
 <h3 align="center">Im a student in computer science specialized in IT development. I am passionate by the IT security and i am a bug bounty and HTB lovers !</h3><br>
 • 🧑 Name : Matthis<br>
 • 🏫 School : Ecole 42<br>
-• 🕯️ Age : 21
-• 👅 Languages : 🇫🇷-🇬🇧
+• 🕯️ Age : 21<br>
+• 👅 Languages : 🇫🇷-🇬🇧<br>
 • 📧 contact : mthea@student.42mulhouse.fr
 
 # 💻 Bug Bounty and CTF platforms:
