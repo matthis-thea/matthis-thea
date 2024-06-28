@@ -4,7 +4,7 @@
 • 🏫 School : Ecole 42<br>
 • 🕯️ Age : 21<br>
 • 👅 Languages : 🇫🇷-🇬🇧<br>
-• 📧 contact : mthea@student.42mulhouse.fr<br>
+• 📧 contact : www.linkedin.com/in/matthis-thea-2004a22a0<br>
 • 🎓 Certifications: EJPTV2 ✅<br>
 • 💻 Yes We Hack : Haze (more than 250 points)<br>
 • 💻 Root-Me : https://www.root-me.org/Haze-394413?lang=en#17b3e977ef097344675a2fa88d5a49ec<br>
